@@ -23,3 +23,6 @@ Remember to take breaks throughout the day to avoid burnout and maintain focus. 
 
 To become a proficient programmer, it is essential to practice regularly and gain hands-on experience. Start small projects and gradually work your way up to more complex challenges. Never be afraid to ask for help or seek guidance from experienced professionals. Remember that every mistake is an opportunity to learn and grow. 
  - 来自NLP
+
+# 2023-11-21
+- "Keep it simple, stupid!"
