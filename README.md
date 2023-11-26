@@ -40,3 +40,12 @@ Second, planning ahead is crucial. Think about what you need to achieve and brea
 
 # 2023-11-25
 - "Keep it simple, stupid!"
+
+# 2023-11-26
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help with this:
+
+1. Prioritize tasks: When you are working on a project, it is important to determine which tasks are most important and which can be completed later. By prioritizing tasks in this way, you can ensure that you focus on the most critical aspects of the project first.
+2. Plan ahead: Always plan your day or week ahead of time to ensure you have enough time for all of your tasks. Creating a schedule or checklist can help to keep you organized and on track. Planning ahead can also help prevent last-minute panic and stress. 
+3. Stay organized: Keeping your workspace and code clean and organized can make a significant difference in how efficiently you work and how easily you find solutions to problems. Organizing your code and files in a logical and consistent manner can save you time and frustration in the long run.  
+4. Learn from others: One ofthe best ways to improve your programming skills is by learning from the experiences and knowledge of others. Read blogs, watch tutorials, or join online communities to learn new techniques and best practices. Not only will this help improveyour skills, but it will also keepyou up-to-date with the latest developments in programming.   
+5. Practice, practice,practice: Programming is a skill that requires constant practice and refinement. The more you practice writing code, the better you will become at it. Don't be afraid to make mistakes, as each mistake is an opportunity tolearn and grow as a programmer.
