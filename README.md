@@ -86,3 +86,8 @@ This quote highlights the ongoing challenge programmers face in creating user-fr
 
 # 2023-12-03
 - Today's programming wisdom is to prioritize writing clean, readable, and maintainable code over clever or complex code. It is better to have code that can be easily understood and modified by others than code that is difficult to decipher or debug. Additionally, it is important to write code that follows established best practices and design patterns, as this can help ensure that your code is efficient, scalable, and reliable. Finally, remember to always test your code thoroughly and document it clearly, as this can save time and headaches down the road.
+
+# 2023-12-04
+- "Premature optimization is the root of all evil." - Donald Knuth
+
+Optimizing code before it's necessary can lead to overly complex and hard-to-maintain code. It's better to write simple, readable code first and optimize only when profiling indicates a specific performance bottleneck.
