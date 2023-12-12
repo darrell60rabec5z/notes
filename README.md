@@ -118,3 +118,13 @@ This quote emphasizes that optimizing code too early in the development process 
 
 # 2023-12-11
 - "Keep it simple, stupid!"
+
+# 2023-12-12
+- Today's programming wisdom is to always keep learning and adapting to new technologies and programming languages. As the tech industry continues to evolve, it' s crucial to stay up-to-date with the latest trends and tools to remain competitive in the job market. Here are some tips to help you grow as a programmer:
+
+1. Continuously educate yourself: Read books, blogs, and research papers to learn about new programming techniques, tools, languages, frameworks, etc.
+2. Practice: Coding is a skill that improves with practice. Try to solve problems and challenges on websites like LeetCode, HackerRank, or Project Euler to improve your programming skills. 
+3. Participate in open-source projects: Contributing to open source projects is not only a great way to give back to the community but also helps you learn new skills and improve existing ones. You can find projects on GitHub or other code hosting platforms.  
+4. Attend conferences and workshops: These events are great opportunities to network with other professionals, learn from industry experts, discover new tools and technologies, as well as stay updated with current trends.   
+5. Collaborate with others: Programming is often a collaborative process. Work with teammates, other developers, designers, product managers, to build better products and learn different perspectives.    
+6. Solve real-world problems: Try applying what you've learned to real problems, whether it be for a class project, personal passion project or a client' project. This will help solidify your knowledge and make you a more well-rounded developer.
