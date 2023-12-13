@@ -128,3 +128,6 @@ This quote emphasizes that optimizing code too early in the development process 
 4. Attend conferences and workshops: These events are great opportunities to network with other professionals, learn from industry experts, discover new tools and technologies, as well as stay updated with current trends.   
 5. Collaborate with others: Programming is often a collaborative process. Work with teammates, other developers, designers, product managers, to build better products and learn different perspectives.    
 6. Solve real-world problems: Try applying what you've learned to real problems, whether it be for a class project, personal passion project or a client' project. This will help solidify your knowledge and make you a more well-rounded developer.
+
+# 2023-12-13
+- "Keep it simple, stupid!"
