@@ -154,3 +154,6 @@ This quote reminds us that while optimizing code for performance can be importan
 4. Plan ahead: Anticipate potential issues and challenges before they arise. Create a plan with alternatives and backups in case something goes wrong. That way, when problems do happen,you'll be better prepared to handle them.   
 5. Stay organized: Keep your workspace clean and clutter-free. Organize your files, code,and notes in a way that makes sense to you. Using version controllers and task management tools can also help with organization.    
 6. Learn continuously: As a programmer, it'sdaily to learn new languages, tools, or techniques. Keep an open mind and be willing to try new things. Not only will this help your career, but it will also make you a more well-rounded developer.
+
+# 2023-12-18
+- "Keep it simple, stupid!"
