@@ -160,3 +160,6 @@ This quote reminds us that while optimizing code for performance can be importan
 
 # 2023-12-19
 - "Keep it simple, stupid!"
+
+# 2023-12-20
+- Today's programming wisdom is: "Premature optimization is the root of all evil" - Sir Tony Hoare. This quote reminds us that optimizing code before it's necessary can lead to overly complex and hard-to-maintain software. It's important to write clean, readable code first and optimize only when needed.
