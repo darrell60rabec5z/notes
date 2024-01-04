@@ -169,3 +169,8 @@ This quote reminds us that while optimizing code for performance can be importan
 
 # 2024-01-03
 - "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, strive for clarity and conciseness. Write code that's easy to read, understand, and maintain. Avoid unnecessary complexity and over-engineering. Remember, you're not just writing code for the computer but also for fellow humans who will interact with it. Optimize for readability and maintainability, as they are key to long-term success in software development."
+
+# 2024-01-04
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' - Donald Knuth. Focus on writing clear, readable, and maintainable code first. Optimize only when necessary and after profiling. Remember that simplicity, modularity, and good design principles often lead to better performance in the long run." 
+
+This quote by computer scientist Donald Knuth emphasizes the importance of not over-engineering or prematurely optimizing software. It's a reminder that clarity and maintainability are key, and that optimizations should be data-driven and targeted rather than speculative.
