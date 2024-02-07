@@ -342,3 +342,6 @@ This quote by computer scientist Donald Knuth reminds us that striving to optimi
 
 Remember to stay focused and avoid multitasking, as it can be detrimental to your productivity. Set deadlines for each task and try to stick to them. If you find yourself getting distracted, take a short break or use a distraction-free app to help refocus. 
  - 来自NLP
+
+# 2024-02-07
+- "Keep it simple, stupid!"
