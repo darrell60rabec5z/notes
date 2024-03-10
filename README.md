@@ -515,3 +515,6 @@ To stay current, make time to attend conferences, read industry blogs, and parti
 
 Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out your approach. Break the project down into smaller, manageable steps, so that it is easier to stay focused and make progress. You can also use project management tools, such as Trello or Asana, to help keep track of your progress and ensure nothing falls through the cracks. 
  - 来自NLP
+
+# 2024-03-10
+- "Keep it simple, stupid!"
