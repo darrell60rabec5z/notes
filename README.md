@@ -527,3 +527,8 @@ Second, planning ahead is crucial for success. Before starting a new project or 
 3. Practice makes perfect: Start small projects and challenge yourself to implement new techniques or tools to improve your skills. This will help make you a better programmer.  
 4. Be open-minded and adaptable: As technology changes, you may need to adapt to different programming styles or languages to keep up with industry trends. Stay open to learning new things and don't be afraid to try something new.   
 5. Document your knowledge: Write blog posts, create videos, record screencasts, take notes, whatever it takes to document the knowledge you gain. By doing this, not only will you retain the information better, but you'll also be able to share it with others and help the community grow.
+
+# 2024-03-12
+- "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. In coding, strive to write clear, concise, and maintainable code. Avoid unnecessary complexity; it often leads to bugs, hard-to-debug issues, and difficulty in collaboration. Remember that code is read more than it's written, so prioritize readability and understandability. Optimize for tomorrow's maintenance, not just today's functionality." 
+
+"Also, 'Premature optimization is the root of all evil.' — Donald Knuth. Focus on writing correct code first, then optimize only where and when profiling indicates a need. Measure before you attempt to improve performance, as assumptions about bottlenecks can often be wrong."
